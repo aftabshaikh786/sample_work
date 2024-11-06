@@ -1,0 +1,22 @@
+			  Figma Design
+
+1. Food App(Mobile): https://www.figma.com/design/BZa9VIN5joskkAJLQoyjnt/Untitled?node-id=0-1&t=WcSy2iTumbLuIG8C-1
+
+2. Weather App (Mobile): 
+https://www.figma.com/design/c1TVtccif732AXDPgdG0Ul/Untitled?node-id=0-1&t=6RHzcjThYD6ctOwX-1
+
+3. Apple.com website homeScreen(Mobile):
+https://www.figma.com/design/SRwOFTDJZDpiXVcclo8omu/Untitled?node-id=0-1&t=Vcyv7p3JKI5KCVu6-1
+
+4. Apple.com website homeScreen(Desktop):
+https://www.figma.com/design/HJ4hnrn6DDevgVVa5oJGuq/Untitled?node-id=1-2&t=p9GfydgU0G47ViIw-1
+
+
+5. Fitness gym web application (Desktop):
+https://www.figma.com/design/43iuRsTylBpAzHaT0B4aae/Untitled?node-id=0-1&t=6bt1VLECW5N5DFMT-1
+
+6. Trading Web Application Dashboard(Desktop):
+https://www.figma.com/design/K6E0HW6W6t7fsVJPgR7Exg/Untitled?node-id=0-1&t=Bq3FpOYyL2Tb9fmX-1
+
+7. Apple Watch Home Screen(Watch):
+https://www.figma.com/design/eREI1AkzkJ1ZCKIHWiiABg/Untitled?node-id=2-11&t=3EYYiGEy57BJGlAc-1
